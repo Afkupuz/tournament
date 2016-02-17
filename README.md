@@ -1,4 +1,4 @@
-# tournament
+# Tournament
 The second project as part of Udacity's Full Stack NanoDegree program  
   
 The project: 
