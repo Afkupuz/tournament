@@ -22,7 +22,7 @@ Add functionality for multiple tournaments
 ##My Project:
 
 To run program:
-Have vagrant installed and launch an instance where the tournament folder is accessable  
+Have vagrant installed and launch an instance where the tournament folder is accessible  
 Example from the OSX terminal:   
 $ vagrant up (launches the vagrant server)  
 $ vagrant ssh (ssh login to that server)  
@@ -45,5 +45,5 @@ functionality for an uneven number of players in the tournament
 functionality for A bye  
 functionality for A tie  
 functionality for players not rematching  
-functionality for pLayers to be ranked based on points  
-functionality for multiple tournements  
+functionality for players to be ranked based on points  
+functionality for multiple tournaments  
