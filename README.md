@@ -1,7 +1,7 @@
 # Tournament
 The second project as part of Udacity's Full Stack NanoDegree program  
   
-The project: 
+##The project: 
 1. Install Vagrant and VirtualBox  
 2. Clone the fullstack-nanodegree-vm repository  
 3. Launch the Vagrant VM  
@@ -9,7 +9,7 @@ The project:
 5. Write Python functions filling out a template of an API (tournament.py)  
 6. Run a test suite to verify your code (tournament_test.py)  
   
-Grading:  
+##Grading:  
 Grading was based on functionality, table design, code quality and documentation  
   
 Extra Credit:
@@ -19,7 +19,7 @@ Have no re-matches
 Add functionality for multiple tournaments
 
 
-My Project:
+##My Project:
 
 To run program:
 Have vagrant installed and launch an instance where the tournament folder is accessable  
