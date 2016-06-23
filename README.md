@@ -32,9 +32,9 @@ From this folder calling $ python tournament_test.py will return the results of 
 This is an easy way of seeing that the code works.  
 The database can be seen by calling $ psql tournament  
 other psl commands:  
-/i to import   
-/? for help  
-/dt lists tables  
+\i to import   
+\? for help  
+\dt lists tables  
 
 Expected results:  
 The test file will show that python functions in tournament.py are running properly  
